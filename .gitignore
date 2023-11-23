@@ -1,4 +1,4 @@
 # Executables
-*.exe
 *.out
 *.app
+*.pdb
